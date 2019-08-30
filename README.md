@@ -10,4 +10,4 @@ Pellentesque lobortis est vel luctus rutrum. Aliquam ut purus neque. Duis aliqua
 * sdflkjds
 * fsdklfjsdl
 
-(fsdlfkjsd;lfj)[https://giorgi.netlify.com]
+[fsdlfkjsd;lfj](https://giorgi.netlify.com)
