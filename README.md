@@ -1,2 +1,2 @@
 # Form Style
-[log in](https://formstyle.netlify.com)
+[formstyle.netlify.com](https://formstyle.netlify.com)
